@@ -77,8 +77,6 @@ python hangman.py
 
 ## 📸 Screenshots
 
-Add your screenshots here after uploading them to the **screenshots** folder.
-
 ### Game Start
 
 ![Game Start](screenshots/start.png)
