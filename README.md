@@ -77,18 +77,17 @@ python hangman.py
 
 ## 📸 Screenshots
 
-### Game Start
+### 🚀 Game Start
 
-![Game Start](screenshots/start.png)
+![Game Start](start.png)
 
-### Winning Screen
+### 🎉 Winning the Game
 
-![Winning Screen](screenshots/win.png)
+![Winning Screen](win.png)
 
-### Game Over
+### 😔 Game Over
 
-![Game Over](screenshots/gameover.png)
-
+![Game Over](gameover.png)
 ---
 
 ## 📚 Python Concepts Used
